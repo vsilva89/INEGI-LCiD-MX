@@ -1,6 +1,11 @@
 # INEGI-LCiD-MX
 Repositorio de las actividades realizadas para el Datathon 2024 de UNSD en Medellín Colombia
 
+Dentro de los cuadernos de Jupyter encontraran los procesamientos para:
+•	El procesamiento de información a partir de los datos de DataProvider
+•	El procesamiento para el cálculo de las isócronas.
+•	El procesamiento para las intersección entre capas de comunas y sitios turísticos
+
 
 MIT License
 
