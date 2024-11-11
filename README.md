@@ -6,6 +6,7 @@ Dentro de los cuadernos de Jupyter (/Notebook_Python) encontraran los procesamie
 	El procesamiento de información a partir de los datos de DataProvider
 	El procesamiento para el cálculo de las isócronas.
 	El procesamiento para las intersección entre capas de comunas y sitios turísticos
+ 	El procesamiento para los cruces geográficos basados en los hurtos genererados en medellín
 
 
 MIT License
