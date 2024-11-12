@@ -7,6 +7,8 @@ Dentro de los cuadernos de Jupyter (/Notebook_Python) encontraran los procesamie
 	El procesamiento para el cálculo de las isócronas.
 	El procesamiento para las intersección entre capas de comunas y sitios turísticos
  	El procesamiento para los cruces geográficos basados en los hurtos genererados en medellín
+  	El procesamiento para la construcción de la geomediana
+   	El procesamiento para el cálculo del indice NDVI
 
 
 MIT License
